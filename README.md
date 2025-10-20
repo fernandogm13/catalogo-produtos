@@ -1,2 +1,2 @@
 # catalogo-produtos
-Catálogo de produtos com Node.js, Express e MongoDB
+Catálogo de produtos com Node.js, Express e postegSQL
